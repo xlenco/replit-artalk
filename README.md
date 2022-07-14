@@ -5,7 +5,7 @@
 将以下代码粘贴至Replit Shell后回车
 
 `
-git clone https://github.com/chuyua/replit-artalk && mv -b replit-artalk/* ./ && mv -b replit-artalk/.[^.]* ./ && rm -rf *~ && rm -rf replit-artalk
+git clone https://github.com/xlenco/replit-artalk && mv -b replit-artalk/* ./ && mv -b replit-artalk/.[^.]* ./ && rm -rf *~ && rm -rf replit-artalk
 `
 
 当加载完 Loading Nix environment... 后点击绿色 ▶ Run
